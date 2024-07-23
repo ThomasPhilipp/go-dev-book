@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics :: My New Hugo Site</title>
+    <link>http://localhost:1313/basics/index.html</link>
+    <description>This is a new chapter.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2024 21:28:31 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Content</title>
+      <link>http://localhost:1313/basics/first-content/index.html</link>
+      <pubDate>Tue, 23 Jul 2024 21:28:31 +0200</pubDate>
+      <guid>http://localhost:1313/basics/first-content/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Second Content</title>
+      <link>http://localhost:1313/basics/second-content/index.html</link>
+      <pubDate>Tue, 23 Jul 2024 21:28:31 +0200</pubDate>
+      <guid>http://localhost:1313/basics/second-content/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Third Content</title>
+      <link>http://localhost:1313/basics/third-content/index.html</link>
+      <pubDate>Tue, 23 Jul 2024 21:28:31 +0200</pubDate>
+      <guid>http://localhost:1313/basics/third-content/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
