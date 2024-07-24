@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syntax :: My New Hugo Site</title>
+    <link>http://localhost:1313/syntax/index.html</link>
+    <description>The syntax of Go is reduced. It is easy to learn and read.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jul 2024 21:51:51 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic</title>
+      <link>http://localhost:1313/syntax/basic/index.html</link>
+      <pubDate>Wed, 24 Jul 2024 21:51:51 +0200</pubDate>
+      <guid>http://localhost:1313/syntax/basic/index.html</guid>
+      <description>Data types bool string int, int8, int16, int32, int64 uint, uint8, uint16, uint32, uint64 byte, rune, float32, float64 complex64, complex128&#xA;Variables Naming of variables are follow the Camel Case style. Depending on their lifecycle, a name should be short or long. Abbreviations should be written in uppercase in one exception, when they are not public.&#xA;var num int // def. w/o value var name string = &#34;Rob Pike&#34; // def. with value var count = 10 // def.</description>
+    </item>
+  </channel>
+</rss>
