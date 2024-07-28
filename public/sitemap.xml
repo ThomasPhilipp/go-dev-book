@@ -1,57 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/introduction/index.html</loc>
+    <loc>https://example.org/introduction/index.html</loc>
     <lastmod>2024-07-23T22:40:11+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/syntax/index.html</loc>
+    <loc>https://example.org/packages/index.html</loc>
+    <lastmod>2024-07-28T21:22:28+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/syntax/index.html</loc>
     <lastmod>2024-07-24T21:51:51+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/packages/index.html</loc>
-    <lastmod>2024-07-23T22:59:42+02:00</lastmod>
+    <loc>https://example.org/tipps/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/references/index.html</loc>
+    <loc>https://example.org/references/index.html</loc>
     <lastmod>2024-07-23T21:44:39+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/syntax/basic/index.html</loc>
+    <loc>https://example.org/packages/flag/index.html</loc>
+    <lastmod>2024-07-28T21:22:28+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/index.html</loc>
+    <lastmod>2024-07-28T21:22:28+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/packages/io/index.html</loc>
+    <lastmod>2024-07-28T21:11:59+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/packages/os/index.html</loc>
+    <lastmod>2024-07-28T21:07:27+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/syntax/basic/index.html</loc>
     <lastmod>2024-07-24T21:51:51+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/index.html</loc>
-    <lastmod>2024-07-24T21:51:51+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/packages/fmt/index.html</loc>
+    <loc>https://example.org/packages/fmt/index.html</loc>
     <lastmod>2024-07-23T22:59:42+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/introduction/quick-start/index.html</loc>
+    <loc>https://example.org/introduction/quick-start/index.html</loc>
     <lastmod>2024-07-23T22:40:11+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/introduction/installation/index.html</loc>
+    <loc>https://example.org/introduction/installation/index.html</loc>
     <lastmod>2024-07-23T22:31:30+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/introduction/why-go/index.html</loc>
+    <loc>https://example.org/introduction/why-go/index.html</loc>
     <lastmod>2024-07-23T21:48:27+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/references/links/index.html</loc>
+    <loc>https://example.org/references/links/index.html</loc>
     <lastmod>2024-07-23T21:44:39+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/references/books/index.html</loc>
+    <loc>https://example.org/references/books/index.html</loc>
     <lastmod>2024-07-23T21:39:03+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/index.html</loc>
+    <loc>https://example.org/categories/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/index.html</loc>
+    <loc>https://example.org/tags/index.html</loc>
   </url>
 </urlset>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction :: My New Hugo Site</title>
-    <link>http://localhost:1313/introduction/index.html</link>
+    <link>https://example.org/introduction/index.html</link>
     <description>Go is a programming language, which was created 2007 at Google. Since 2009, it is open source and can be used for personal and professional projects.&#xA;Since 2012 the version 1 exists. There is the promise that in the syntax and the default libraries within a major version no breaking changes exist.&#xA;All half year a new Go version is released and supported for one year. Security updates are always provided for the two latest Go versions, i.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jul 2024 22:40:11 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quick Start</title>
-      <link>http://localhost:1313/introduction/quick-start/index.html</link>
+      <link>https://example.org/introduction/quick-start/index.html</link>
       <pubDate>Tue, 23 Jul 2024 22:40:11 +0200</pubDate>
-      <guid>http://localhost:1313/introduction/quick-start/index.html</guid>
+      <guid>https://example.org/introduction/quick-start/index.html</guid>
       <description>To create a new Go project execute:&#xA;$ go mod init https://&lt;sample-url&gt;/&lt;user&gt;/&lt;project-name&gt;&#xA;For a local project any arbitrary URL can be used. For a professional projects you must shall use the Git URL.&#xA;The previous command automatically creates the go.mod and a main.go file. The latter one also belongs to the main package which marks it as an executeable application.&#xA;A package name (like fmt) also defines a namespace which includes functions, types, variables and constants.</description>
     </item>
     <item>
       <title>Installation</title>
-      <link>http://localhost:1313/introduction/installation/index.html</link>
+      <link>https://example.org/introduction/installation/index.html</link>
       <pubDate>Tue, 23 Jul 2024 22:31:30 +0200</pubDate>
-      <guid>http://localhost:1313/introduction/installation/index.html</guid>
+      <guid>https://example.org/introduction/installation/index.html</guid>
       <description>Each go installation consists of:&#xA;Compiler Default libraries (aka Standardbibliothek) Tool set Tool set gopls: the official language server which is integrated into IDEs for auto completion, documentation, etc. gofmt: code formater goimports: managing imports (which implicitly calls gofmt) </description>
     </item>
     <item>
       <title>Why Go</title>
-      <link>http://localhost:1313/introduction/why-go/index.html</link>
+      <link>https://example.org/introduction/why-go/index.html</link>
       <pubDate>Tue, 23 Jul 2024 21:48:27 +0200</pubDate>
-      <guid>http://localhost:1313/introduction/why-go/index.html</guid>
+      <guid>https://example.org/introduction/why-go/index.html</guid>
       <description>Go’s syntax is small and easy to learn. It is good documented and has a rich tool set including framworks for testing, static code anlysis, race detector, etc.&#xA;Other benefits:&#xA;Fast compilation Strict static code checker Memory management </description>
     </item>
   </channel>

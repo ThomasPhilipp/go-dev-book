@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Packages :: My New Hugo Site</title>
-    <link>http://localhost:1313/packages/index.html</link>
+    <link>https://example.org/packages/index.html</link>
     <description>In this chapter various packages are explained in more detail.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jul 2024 21:11:59 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/packages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jul 2024 21:22:28 +0200</lastBuildDate>
+    <atom:link href="https://example.org/packages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>flag</title>
+      <link>https://example.org/packages/flag/index.html</link>
+      <pubDate>Sun, 28 Jul 2024 21:22:28 +0200</pubDate>
+      <guid>https://example.org/packages/flag/index.html</guid>
+      <description>The flag package is typically used for a CLI program. It automatically displays available options by adding -h to the program name.&#xA;flag.Parse At the very beginning of a program, we have to call the flag.Parse() function.</description>
+    </item>
     <item>
       <title>Io</title>
-      <link>http://localhost:1313/packages/io/index.html</link>
+      <link>https://example.org/packages/io/index.html</link>
       <pubDate>Sun, 28 Jul 2024 21:11:59 +0200</pubDate>
-      <guid>http://localhost:1313/packages/io/index.html</guid>
+      <guid>https://example.org/packages/io/index.html</guid>
       <description>io.Reader Is the basis type for reading data, e.g. os.Stdin.&#xA;io.Writer Is the basis type for writing data, e.g. os.Stdout.&#xA;io.Copy Use this function to copy data from the io.Reader to a io.Writer.</description>
     </item>
     <item>
       <title>os</title>
-      <link>http://localhost:1313/packages/os/index.html</link>
+      <link>https://example.org/packages/os/index.html</link>
       <pubDate>Sun, 28 Jul 2024 21:07:27 +0200</pubDate>
-      <guid>http://localhost:1313/packages/os/index.html</guid>
+      <guid>https://example.org/packages/os/index.html</guid>
       <description>os.Args Used to parse the arguments of a command line.&#xA;os.Args[0] // program path os.Args[1:] // program argument(s) os.Getenv Used to read environment variables, e.g. os.Getenv(&#34;HOME&#34;).</description>
     </item>
     <item>
       <title>fmt</title>
-      <link>http://localhost:1313/packages/fmt/index.html</link>
+      <link>https://example.org/packages/fmt/index.html</link>
       <pubDate>Tue, 23 Jul 2024 22:59:42 +0200</pubDate>
-      <guid>http://localhost:1313/packages/fmt/index.html</guid>
+      <guid>https://example.org/packages/fmt/index.html</guid>
       <description>The fmt package (https://pkg.go.dev/fmt) is the abbreviation for Format and used to format input- and output-values.&#xA;Output There are various possibilities to print output-values to the default output:&#xA;fmt.Print(&#34;Hello &#34;, &#34;Print()\n&#34;) // Hello Print() fmt.Println(&#34;Hello Println()&#34;) // Hello Println() var s = &#34;Printf()&#34; fmt.Printf(&#34;Hello , %s\n&#34;, s) // Hello Printf() The number of inputs are not limited. The fmt.Printf() function is the most advanced and uses verbs for formating:&#xA;%v: prints any value in its default format %+v: prints structs and adds it properties (aka field names) %T: prints its data-type %p: prints the address of a pointer %s: prints the string etc.</description>
     </item>
   </channel>

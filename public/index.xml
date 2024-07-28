@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>go-dev-book :: My New Hugo Site</title>
-    <link>http://localhost:1313/index.html</link>
+    <link>https://example.org/index.html</link>
     <description>My own book about learning Go (Lang), a modern programming language.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Jul 2024 21:22:28 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/introduction/index.html</link>
+      <link>https://example.org/introduction/index.html</link>
       <pubDate>Tue, 23 Jul 2024 22:40:11 +0200</pubDate>
-      <guid>http://localhost:1313/introduction/index.html</guid>
+      <guid>https://example.org/introduction/index.html</guid>
       <description>Go is a programming language, which was created 2007 at Google. Since 2009, it is open source and can be used for personal and professional projects.&#xA;Since 2012 the version 1 exists. There is the promise that in the syntax and the default libraries within a major version no breaking changes exist.&#xA;All half year a new Go version is released and supported for one year. Security updates are always provided for the two latest Go versions, i.</description>
     </item>
     <item>
       <title>Packages</title>
-      <link>http://localhost:1313/packages/index.html</link>
+      <link>https://example.org/packages/index.html</link>
       <pubDate>Sun, 28 Jul 2024 21:22:28 +0200</pubDate>
-      <guid>http://localhost:1313/packages/index.html</guid>
+      <guid>https://example.org/packages/index.html</guid>
       <description>In this chapter various packages are explained in more detail.</description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>http://localhost:1313/syntax/index.html</link>
+      <link>https://example.org/syntax/index.html</link>
       <pubDate>Wed, 24 Jul 2024 21:51:51 +0200</pubDate>
-      <guid>http://localhost:1313/syntax/index.html</guid>
+      <guid>https://example.org/syntax/index.html</guid>
       <description>The syntax of Go is reduced. It is easy to learn and read.</description>
     </item>
     <item>
       <title>Tipps</title>
-      <link>http://localhost:1313/tipps/index.html</link>
+      <link>https://example.org/tipps/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tipps/index.html</guid>
+      <guid>https://example.org/tipps/index.html</guid>
       <description>Export variable To export a variable and make it public, simply write the variable- and function-name with a capital letter. The public elements define the interface and the API of a package.&#xA;Blank identifier To ignore a value within e.g. a loop, we can use the _ (blank identifier).&#xA;String length A string is representated internally as bytes. When using len() functions, it returns the number of bytes. The characters A-Z requires 1 byte, special characters can use more.</description>
     </item>
     <item>
       <title>References</title>
-      <link>http://localhost:1313/references/index.html</link>
+      <link>https://example.org/references/index.html</link>
       <pubDate>Tue, 23 Jul 2024 21:44:39 +0200</pubDate>
-      <guid>http://localhost:1313/references/index.html</guid>
+      <guid>https://example.org/references/index.html</guid>
       <description>This is a new chapter.</description>
     </item>
   </channel>

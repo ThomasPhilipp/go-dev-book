@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Syntax :: My New Hugo Site</title>
-    <link>http://localhost:1313/syntax/index.html</link>
+    <link>https://example.org/syntax/index.html</link>
     <description>The syntax of Go is reduced. It is easy to learn and read.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jul 2024 21:51:51 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic</title>
-      <link>http://localhost:1313/syntax/basic/index.html</link>
+      <link>https://example.org/syntax/basic/index.html</link>
       <pubDate>Wed, 24 Jul 2024 21:51:51 +0200</pubDate>
-      <guid>http://localhost:1313/syntax/basic/index.html</guid>
+      <guid>https://example.org/syntax/basic/index.html</guid>
       <description>Data types bool string int, int8, int16, int32, int64 uint, uint8, uint16, uint32, uint64 byte, rune, float32, float64 complex64, complex128&#xA;UTF-8 Go uses UTF-8 to encode text. This has the benefit, that there is no issue with special characters. A string consists of multiple Unicode-characters which requires between 1 and 4 bytes (!). A string data type is an alias for []byte why we can use range to loop. Each character is from type rune which is an alias of uint32, meaning 4 bytes.</description>
     </item>
   </channel>
