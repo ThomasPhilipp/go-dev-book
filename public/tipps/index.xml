@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tipps :: My New Hugo Site</title>
+    <link>http://localhost:1313/tipps/index.html</link>
+    <description>Export variable To export a variable and make it public, simply write the variable- and function-name with a capital letter. The public elements define the interface and the API of a package.&#xA;Blank identifier To ignore a value within e.g. a loop, we can use the _ (blank identifier).&#xA;String length A string is representated internally as bytes. When using len() functions, it returns the number of bytes. The characters A-Z requires 1 byte, special characters can use more.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tipps/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
