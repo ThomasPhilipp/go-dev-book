@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic :: My New Hugo Site</title>
+    <link>http://localhost:1313/basic/index.html</link>
+    <description>The syntax of Go is reduced and it is easy to learn and read. The default library contains a rich tool-set.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jul 2024 20:15:01 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/basic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commands</title>
+      <link>http://localhost:1313/basic/commands/index.html</link>
+      <pubDate>Mon, 29 Jul 2024 20:15:01 +0200</pubDate>
+      <guid>http://localhost:1313/basic/commands/index.html</guid>
+      <description>go build This command creates an executeable file. The name of the file is the same as the name of the folder, containing the main-package. To rename the file execute $ go build -o &lt;newName&gt;.&#xA;Cross compiling Per default the previous commands always compiles the Go application for the own operating system. If you want to build it for other operating systems, you have to set the GOOS and GOARCH environment variables:</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>http://localhost:1313/basic/tools/index.html</link>
+      <pubDate>Mon, 29 Jul 2024 20:15:01 +0200</pubDate>
+      <guid>http://localhost:1313/basic/tools/index.html</guid>
+      <description>go help The command gives an overview about further Go tools. To get more details to a specific tool call $ go help &lt;fmt&gt;.&#xA;go env The commands prints out all configured environment variables. The most important variables are:&#xA;GOPATH: requires read &amp; write access and mostly points the HOME-folder. GOROOT: points to the Go installation which includes the compiler and the default library. To print out more details about available environment variables execute $ go help environment.</description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>http://localhost:1313/basic/code/index.html</link>
+      <pubDate>Wed, 24 Jul 2024 21:51:51 +0200</pubDate>
+      <guid>http://localhost:1313/basic/code/index.html</guid>
+      <description>Data types bool string int, int8, int16, int32, int64 uint, uint8, uint16, uint32, uint64 byte, rune, float32, float64 complex64, complex128&#xA;UTF-8 Go uses UTF-8 to encode text. This has the benefit, that there is no issue with special characters. A string consists of multiple Unicode-characters which requires between 1 and 4 bytes (!). A string data type is an alias for []byte why we can use range to loop. Each character is from type rune which is an alias of uint32, meaning 4 bytes.</description>
+    </item>
+    <item>
+      <title>Quick Start</title>
+      <link>http://localhost:1313/basic/quick-start/index.html</link>
+      <pubDate>Tue, 23 Jul 2024 22:40:11 +0200</pubDate>
+      <guid>http://localhost:1313/basic/quick-start/index.html</guid>
+      <description>To create a new Go project execute the following command:&#xA;$ go mod init &lt;url&gt;/&lt;project-name&gt; For a local project any arbitrary URL can be used. For a professional projects you must shall use the Git URL.&#xA;The output of the command is a go.mod file, also known as a Go module. Each executeable application requires a file with a main-package and a main()-function. Typically, this file is named main.go. A project can contain multiple main-packages, e.</description>
+    </item>
+  </channel>
+</rss>

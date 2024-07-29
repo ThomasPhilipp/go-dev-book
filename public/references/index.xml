@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>References :: My New Hugo Site</title>
-    <link>https://example.org/references/index.html</link>
+    <link>http://localhost:1313/references/index.html</link>
     <description>This is a new chapter.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jul 2024 21:44:39 +0200</lastBuildDate>
-    <atom:link href="https://example.org/references/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/references/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Links</title>
-      <link>https://example.org/references/links/index.html</link>
+      <link>http://localhost:1313/references/links/index.html</link>
       <pubDate>Tue, 23 Jul 2024 21:44:39 +0200</pubDate>
-      <guid>https://example.org/references/links/index.html</guid>
+      <guid>http://localhost:1313/references/links/index.html</guid>
       <description> Official website (https://go.dev/) Standard library (https://pkg.go.dev/std/) Playground (https://go.dev/play/) Other Links GoLang specification (https://golang.org/ref/spec) </description>
     </item>
     <item>
       <title>Books</title>
-      <link>https://example.org/references/books/index.html</link>
+      <link>http://localhost:1313/references/books/index.html</link>
       <pubDate>Tue, 23 Jul 2024 21:39:03 +0200</pubDate>
-      <guid>https://example.org/references/books/index.html</guid>
+      <guid>http://localhost:1313/references/books/index.html</guid>
       <description>Go - Das Praxisbuch A german book with its own Udemy course. I have a version on my Kindle.&#xA;Link: https://dpunkt.de/produkt/go-das-praxisbuch/ Github: https://github.com/gobuch/code Udemy: https://www.udemy.com/course/go-der-kurs-zum-buch/ </description>
     </item>
   </channel>

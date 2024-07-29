@@ -1,5 +1,5 @@
 +++
-title = 'Basic'
+title = 'Code'
 date = 2024-07-24T21:51:51+02:00
 +++
 

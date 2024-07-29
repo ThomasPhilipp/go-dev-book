@@ -3,7 +3,7 @@ title = 'Books'
 date = 2024-07-23T21:39:03+02:00
 +++
 
-# Go - Das Praxisbuch
+## Go - Das Praxisbuch
 
 A german book with its own Udemy course. I have a version on my Kindle.
 
